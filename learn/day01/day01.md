@@ -104,6 +104,27 @@ vt. 使失去平衡，打破平衡
   - His reckless decision would **disequilibrate** the fragile stability.
   - 他草率的决定将会破坏脆弱的稳定局面。
 
+### correct
+
+adj. 正确的；恰当的
+v. 改正；批改
+
+- adj. 正确的
+  - Your answer is **correct**.
+  - 你的答案是正确的。
+
+- adj. 正确的
+  - I think the president was correct to reject the offer.
+  - 我认为总统拒绝那个提议是正确的。
+
+- v. 纠正
+  - He had asked her to correct his English.
+  - 他请求她帮忙纠正自己的英语。
+
+- v. 改正
+  - Please correct the mistakes as soon as possible.
+  - 请尽快改正这些错误。
+
 
 
 
