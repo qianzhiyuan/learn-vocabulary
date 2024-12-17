@@ -37,3 +37,88 @@ n. 打；击；碰撞；（演出等）成功
 - n. 击中
   - The building was hit.
   - 大楼被击中了。
+
+### stay
+
+v. 待，停留；暂住，逗留
+
+link v. 保持（某种状态）
+
+n. 暂住，逗留
+
+#### 例句
+
+- v. 待，停留
+  - **Stay** here!
+  - 待在这儿！
+
+- v. 暂住，逗留
+  - We're all **staying** at the same hotel.
+  - 我们都暂住在同一家酒店。
+
+- link v. 保持
+  - Please **stay** healthy!
+  - 请保持健康。
+
+- n. 暂住，逗留
+  - We want to make your **stay** happy.
+  - 我们想让你们在逗留期间感到开心。
+
+### everyone
+
+pron. 每人，人人
+
+- pron. 每人，人人
+  - **Everyone** has his own dream.
+  - 每个人都有自己的梦想。
+
+- n. 每人，人人
+  - **Everyone** needs to go to school tomorrow.
+  - 明天每个人都需要去学校。
+
+- pron. 每人，人人
+  - **Everyone** received presents.
+  - 每个人都收到了礼物。
+
+### directness
+
+n. 直率，直接
+
+- n. 直率，直接
+  - She asked a question with her usual **directness**.
+  - 她以惯常直率的语气问了一个问题。
+
+- n. 直率，直接
+  - She was taken aback by the **directness** of th question.
+  - 问题如此直接，她吃了一惊。
+
+### disequilibrate
+
+vt. 使失去平衡，打破平衡
+
+- vt. 使失去平衡，打破平衡
+  - The emergence of the third party will **disequilibrate** th balance.
+  - 第三方的出现会打破平衡。
+
+- vt. 使失去平衡，打破平衡
+  - His reckless decision would **disequilibrate** the fragile stability.
+  - 他草率的决定将会破坏脆弱的稳定局面。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
